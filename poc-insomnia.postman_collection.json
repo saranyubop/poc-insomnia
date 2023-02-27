@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "fc9c1565-78a1-4a49-b101-398d927512b5",
+		"name": "poc-insomnia",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13498465"
+	},
+	"item": [
+		{
+			"name": "test with Suea",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://httpbin.org/get",
+					"protocol": "https",
+					"host": [
+						"httpbin",
+						"org"
+					],
+					"path": [
+						"get"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
