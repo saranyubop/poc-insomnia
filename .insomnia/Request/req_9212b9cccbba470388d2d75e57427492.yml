@@ -1,0 +1,21 @@
+_id: req_9212b9cccbba470388d2d75e57427492
+type: Request
+parentId: fld_f543922a1fa64c27a5172bf896c74e17
+modified: 1677492252335
+created: 1677492243542
+url: http://localhost:8080/eieiei
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677492243542
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
